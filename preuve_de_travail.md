@@ -9,3 +9,8 @@ Consigne 2 :
  le chapitre 3 de mon histoire à était supprimmer 
 
 je peux revert mon revert afin de remmetre le chapitre 3 à sa place.
+
+
+Preuve de tag V1.0:
+
+<img src="tag_proof.png" alt="tag_proof.png">
