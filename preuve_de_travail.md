@@ -15,6 +15,15 @@ Preuve de tag V1.0:
 
 <img src="tag_proof.png" alt="tag_proof.png">
 
+Preuve de learn git branching:
+
+<img src="gitbranching.png">
+
+<img src="gitbranching2.png">
+
+
+
+
 Preuve de remote en ssh:
 
 <img src="ssh_proof.png" alt="ssh_proof.png">
