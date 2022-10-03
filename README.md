@@ -29,4 +29,18 @@ va permettre de changer de branche de travail, utilisé avec l'option -b si la b
 git log:
 affiche la liste des commits parents depuis un commit donné
 
+  ----------------------------
+  
+  Qu'est ce qu'un conflit git :
+  
+  un conflit est une erreur qui arrive lorsque des modifications ont était faite en même temps sur un même fichier produisant l'impossibilité de pull ou de push ce qui à était fait en local.
+  
+  A quoi ca ressemble :
+  
+  dans le fichier concerné tout ce qui est en conflit va se retrouver entre  
+  <<<<<<<<< "blabla1" =============== "blabla2" >>>>>>>>>>>>
+  
+  pour le résoudre je dois supprimer tout les caractères spéciaux qui définissent le conflit et ensuite je garde et/ou supprime le contenu que je veux.
+  
+
 
