@@ -17,4 +17,4 @@ Preuve de tag V1.0:
 
 Preuve de remote en ssh:
 
-<img src="ssh_proff.png" alt="ssh_proof.png">
+<img src="ssh_proof.png" alt="ssh_proof.png">
