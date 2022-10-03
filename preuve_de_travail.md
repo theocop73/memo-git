@@ -22,8 +22,12 @@ Preuve de remote en ssh:
 
 Quelques images du site en collaboration avec gaëtan et arthur:
 
+les témoignages:
+
 <img src="testimony.png">
 
+la liste des etudiants:
 <img src="students.png">
 
+mon cv sur le site :
 <img src="my_cv.png">
